@@ -36,7 +36,8 @@
 }
 
 .card__stats__type {
-    color: red;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
     background-color: coral;
     padding: 5px;
     margin-right: 4px;
